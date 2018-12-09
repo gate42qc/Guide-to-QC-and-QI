@@ -130,6 +130,7 @@ A very good start for learning quantum mechanics would be the famous [Feynman Le
 
 ### VIDEO LECTURES FROM INTERNATIONAL SUMMER SCHOOLS AND CONFERENCES
 
+* [EPiQC 2018 - Enabling Practical-Scale Quantum Computing - An NSF Expedition in Computing](https://www.youtube.com/watch?v=ZQ_NE-E91aU&index=1&list=PLfOgkuiMs5qD6BkS7Bk2gLGdHSxjMz5MY)
 * [Boulder School 2018: lecture notes and videos](https://boulderschool.yale.edu/2018/boulder-school-2018-lecture-notes)
 * [Quantum Information for Developers 2018](https://www.video.ethz.ch/conferences/2018/quid.html?fbclid=IwAR2W2vToNoNdu-MMjrY1qhMKg5gQ2jTro0xTPuuaCFYTUOoCXWW5XOlHXyc)
 * [ISCA 2018 Tutorial: Grand Challenges and Research Tools for Quantum Computing](https://www.youtube.com/watch?v=ZQ_NE-E91aU&list=PLfOgkuiMs5qD6BkS7Bk2gLGdHSxjMz5MY)
