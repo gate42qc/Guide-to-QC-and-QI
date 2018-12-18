@@ -340,15 +340,14 @@ D.R. Leibrandt et. al., “Demonstration of a scalable, multiplexed ion trap for
 1. A. Boaron et. al., Secure Quantum Key Distribution over 421 km of Optical Fiber, PRL **121**, 190502 (2018)
 1. A. Dahlberg, S. Wehner, [SimulaQron - A simulator for developing quantum internet software (2018)](https://arxiv.org/abs/1712.08032)
 1. A. Shenoy-Hejamadi et. al., [Quantum Cryptography: Key Distribution and Beyond (2018)](https://arxiv.org/abs/1802.05517)
-1. [A quantum cryptography roadmap by LANL](https://qist.lanl.gov/qcrypt_map.shtml)
 1. S. Aaronson, [Quantum Copy-Protection and Quantum Money (2011)](https://arxiv.org/abs/1110.5353)
 1. C. Bennet, G. Brassard, Quantum Cryptography: Public key distribution and coin tossing, Theor. Comp. Sci. **560**, 7 (2014) 
-1. A. Ekert, Quantum Cryptography Based on Bell's Theorem, PRL, **67**, 661 (1991) 
 1. M. Berta et. al., [Quantum to Classical Randomness Extractors (2012)](https://arxiv.org/abs/1111.2026)
+1.A Quantum Cryptography Roadmap by LANL (2009)](https://qist.lanl.gov/qcrypt_map.shtml) 
 1. A. Childs, [Secure Assisted Quantum Computation (2005)](https://arxiv.org/abs/0111046)
-
+1. A. Ekert, Quantum Cryptography Based on Bell's Theorem, PRL, **67**, 661 (1991)
 1. C. Bennet, G. Brassard, J-M. Robert, Privacy Amplification by Public Discussion, Siam J. Comput. **17**, 210 (1988) 
-8. 
+ 
 
 
 
