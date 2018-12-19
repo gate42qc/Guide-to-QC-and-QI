@@ -5,8 +5,8 @@
 This guide is intended for researchers entering the area of Quantum Computation and Quantum Information Science.
 
 ### OVERVIEW & PURPOSE
-Quantum computing is a multidisciplinary field of research including quantum physics, computer science and linear algebra. The goal of quantum computing is to compute tasks more quickly, by using the laws of quantum physics, which classical computers either do slowly or cannot solve in polynomial time. Of course, classical computers will always stay with the mankind to assist quantum computers at least with error correction and control flow. 
-The two main resources of the speedup are the so called superposition and entanglement: a quantum system can be in superposition of two (or more) states, also, be entangled with another system. Entanglement is a type of correlation that is stronger than any classical correlation. When there is entanglement involved, one rather think of many-partite system as one (possibly nonlocal) object than a system of correlated objects.
+Quantum computing is a multidisciplinary field of research including quantum physics, computer science and linear algebra. The goal of quantum computing is to compute tasks more quickly, by using the laws of quantum physics, which classical computers either do slowly or cannot solve in polynomial time. Of course, classical computers will always stay with the mankind to assist quantum computers at least with error correction and control flow.   
+The two main resources of the speedup are the so called superposition and entanglement: a quantum system can be in superposition of two (or more) states, also, be entangled with another system. Entanglement is a type of correlation that is stronger than any classical correlation. When there is entanglement involved, one rather think of many-partite system as one (possibly nonlocal) object than a system of correlated objects.  
 The guide assumes some knowledge of linear algebra and some programming language in order to go deeper into quantum computing research.
 
 
@@ -86,7 +86,7 @@ A good resource for containing a nice introduction to scientific computing as we
 
 ### MANUALS
 * **Michael A. Nielsen & Isaac L. Chuang, _Quantum Computation and Quantum Information_, Cambridge University Press, The Edinburgh Building, Cambridge CB2 8RU, UK, 2010**  
-S. Lloyd, [Quantum Information Science](http://web.mit.edu/2.111/www/notes09/spring.pdf)  
+* S. Lloyd, [Quantum Information Science](http://web.mit.edu/2.111/www/notes09/spring.pdf)  
 * **A. Yu. Kitaev, A.H. Shen, and M.N. Vyalyi, _Classical and Quantum Computation_, American Mathematical Society, Providence, 2002.**  
 * **W.H. Steeb and Y. Hardy, _Problems & Solutions in Quantum Computing & Information_, World Scientific, River Edge, NJ, 2004.**  
 * **R.P. Feynman, _Feynman Lectures on Computation_, CRC Press, Taylor & Francis Group, 6000 Broken Sound Parkway NW, Suite 300, Boca Raton, FL 33487-2742, 1996** [(Amazon link)](https://www.amazon.com/Feynman-Lectures-Computation-Frontiers-Physics/dp/0738202967)  
@@ -340,11 +340,16 @@ D.R. Leibrandt et. al., “Demonstration of a scalable, multiplexed ion trap for
 1. A. Boaron et. al., Secure Quantum Key Distribution over 421 km of Optical Fiber, PRL **121**, 190502 (2018)
 1. A. Dahlberg, S. Wehner, [SimulaQron - A simulator for developing quantum internet software (2018)](https://arxiv.org/abs/1712.08032)
 1. A. Shenoy-Hejamadi et. al., [Quantum Cryptography: Key Distribution and Beyond (2018)](https://arxiv.org/abs/1802.05517)
-1. S. Aaronson, [Quantum Copy-Protection and Quantum Money (2011)](https://arxiv.org/abs/1110.5353)
+1. M. Tomamichel, A. Leverrier, [A largely self-contained and complete security proof for quantum key distribution](https://arxiv.org/abs/1506.08458)
 1. C. Bennet, G. Brassard, Quantum Cryptography: Public key distribution and coin tossing, Theor. Comp. Sci. **560**, 7 (2014) 
 1. M. Berta et. al., [Quantum to Classical Randomness Extractors (2012)](https://arxiv.org/abs/1111.2026)
+1. S. Aaronson, [Quantum Copy-Protection and Quantum Money (2011)](https://arxiv.org/abs/1110.5353)
 1. [A Quantum Cryptography Roadmap by LANL (2009)](https://qist.lanl.gov/qcrypt_map.shtml) 
+1. R. Renner, Security of Quantum Key Distribution, [PhD Thesis](https://arxiv.org/abs/quant-ph/0512258)
 1. A. Childs, [Secure Assisted Quantum Computation (2005)](https://arxiv.org/abs/0111046)
+1. P. Shor, J. Preskill, [Simple Proof of Security of the BB84 Quantum Key Distribution Protocol (2000)](https://arxiv.org/abs/0003004)
+1. D. Mayers, [Quantum Key Distribution and String Oblivious Transfer in Noisy Channels (1996)](https://arxiv.org/abs/9606003)
+1. C. Bennett, Quantum Cryptography Using Any Two Nonorthogonal States, PRL **68**, 3121 (1992)
 1. A. Ekert, Quantum Cryptography Based on Bell's Theorem, PRL, **67**, 661 (1991)
 1. C. Bennet, G. Brassard, J-M. Robert, Privacy Amplification by Public Discussion, Siam J. Comput. **17**, 210 (1988) 
  
