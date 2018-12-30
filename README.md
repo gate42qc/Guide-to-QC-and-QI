@@ -276,6 +276,7 @@ Quantum Algorithm Zoo, a comprehensive catalog of quantum algorithms
 1. A. M. Childs et. al., “Toward the first quantum simulation with quantum speedup” [arXiv:1711.10980 (2017)](https://arxiv.org/abs/1711.10980)
 1. H. Lamm, “Simulation of Nonequilibrium Dynamics on a Quantum Computer”, [arXiv:1806.06649v3 (2018)](https://arxiv.org/abs/1806.06649)
 1. S. McArdle et. al., "Quantum computational chemistry", [arXiv:1808.10402 (2018)](https://arxiv.org/pdf/1808.10402)
+1. Y. Cao et. al., "Quantum Chemistry in the Age of Quantum Computing", [arXiv:1812.09976 (2018)](https://arxiv.org/pdf/1812.09976.pdf)
 
 
 #### Quantum Hardware (Physical Realizations) <a name="Quantum-Hardware"></a> 
@@ -340,7 +341,7 @@ D.R. Leibrandt et. al., “Demonstration of a scalable, multiplexed ion trap for
 1. A. Boaron et. al., Secure Quantum Key Distribution over 421 km of Optical Fiber, PRL **121**, 190502 (2018)
 1. A. Dahlberg, S. Wehner, [SimulaQron - A simulator for developing quantum internet software (2018)](https://arxiv.org/abs/1712.08032)
 1. A. Shenoy-Hejamadi et. al., [Quantum Cryptography: Key Distribution and Beyond (2018)](https://arxiv.org/abs/1802.05517)
-1. M. Tomamichel, A. Leverrier, [A largely self-contained and complete security proof for quantum key distribution](https://arxiv.org/abs/1506.08458)
+1. M. Tomamichel, A. Leverrier, [A largely self-contained and complete security proof for quantum key distribution (2017)](https://arxiv.org/abs/1506.08458)
 1. C. Bennet, G. Brassard, Quantum Cryptography: Public key distribution and coin tossing, Theor. Comp. Sci. **560**, 7 (2014) 
 1. M. Berta et. al., [Quantum to Classical Randomness Extractors (2012)](https://arxiv.org/abs/1111.2026)
 1. S. Aaronson, [Quantum Copy-Protection and Quantum Money (2011)](https://arxiv.org/abs/1110.5353)
