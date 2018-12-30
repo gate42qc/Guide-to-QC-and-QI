@@ -48,7 +48,7 @@ The guide assumes some knowledge of linear algebra and some programming language
 **D. Williams. _Probability with Martingales_. Cambridge University Press, Cambridge, 1991.**  
 
 * NUMBER THEORY  
-**N. Koblitz._ A Course in Number Theory and Cryptography_. Springer-Verlag, New York, 1994.**  
+**N. Koblitz. A Course in Number Theory and Cryptography. Springer-Verlag, New York, 1994.**  
 Chapter 33 of **T. H. Cormen, C. E. Leiserson, and R. L. Rivest. _Introduction to Algorithms_. MIT Press, Cambridge, Mass., 1990**  
 Chapter 10 of **G. H. Hardy and E. M. Wright. _An Introduction to the Theory of Numbers_, Fourth Edition. Oxford University Press, London, 1960.**  
 
@@ -110,7 +110,7 @@ A good resource for containing a nice introduction to scientific computing as we
 ### QUANTUM MECHANICS  
 #### ONLINE QM COURSES  
 * [Quantum Mechanics for Everyone](https://courses.edx.org/courses/course-v1:GeorgetownX+PHYX-008-01x+1T2017/course/)
-* [The Quantum world](https://courses.edx.org/courses/course-v1:HarvardX+CHEM160+1T2017/course/)
+* [The Quantum World](https://courses.edx.org/courses/course-v1:HarvardX+CHEM160+1T2017/course/)
 * [Mastering Quantum Mechanics](https://courses.edx.org/courses/MITx/8.05x/1T2015/course/) *
 
 #### FEYNMAN LECTURES
@@ -245,7 +245,7 @@ We have collected a list of references classified by topics that may help the re
 
 #### Quantum Algorithms  
 20 algrithms implementations on IBM's 5-qubit quantum computer, including Shor's prime factoring, Grover's database search, etc., can be found in  
-1. Quantum Algorithm Implementations for Beginners [arXiv: 1804.03719 (2018)] (https://arxiv.org/abs/1804.03719)  
+1. Quantum Algorithm Implementations for Beginners [arXiv: 1804.03719 (2018)](https://arxiv.org/abs/1804.03719)  
 
 Quantum Algorithm Zoo, a comprehensive catalog of quantum algorithms
 1. [Algebraic and Number Theoretic Algorithms](https://math.nist.gov/quantum/zoo/) 
