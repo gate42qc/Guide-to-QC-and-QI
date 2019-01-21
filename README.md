@@ -137,7 +137,7 @@ A very good start for learning quantum mechanics would be the famous [Feynman Le
 * [CROSSING Winter School on Quantum Security, 2016](https://www.youtube.com/watch?list=PLPGoYUDW8EJCeQhNBcfd3yiyeoakaRtco&v=SFZXhGyXuHM)
 * [QuICS Workshop on the Frontiers of Quantum Information and Computer Science (September 28, 2015)](https://www.youtube.com/watch?v=iwF3pmyBsGM&list=PL7Yaf7nQHP3A8boBhrIBAhL8O3T34uqbm)
 * [Canadian Summer School on Quantum Information 2012, University of Waterloo](https://www.youtube.com/watch?v=SlhwNhYZhNM&list=PLq2e2Zi6KW-uHqylI-9paEJEj2zIS6dD-&index=5)
-
+* [QIP conferences since 1998](http://jila.colorado.edu/qip2019/about.html#past)
 
 
 
