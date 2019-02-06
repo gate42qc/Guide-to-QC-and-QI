@@ -81,7 +81,7 @@ A good resource for containing a nice introduction to scientific computing as we
 * [Quantum Information](http://pirsa.org/C17049) (Daniel Gottesman)  
 * [Quantum Error Correction](http://pirsa.org/C17045) (D. Gottesman and B. Yoshida)  
 * [Quantum Cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/)  (T. Vidick and S. Wehner)  
-
+* [Quantum Machine Learning](https://courses.edx.org/…/course-v1:University_of_T…/course/) (P. Wittek, Uni of Toronto)
 
 
 ### MANUALS
@@ -154,7 +154,7 @@ There are already a handful of programming frameworks that allow access to quant
 * D-Wave [Leap](https://www.dwavesys.com/)
 
 [Open source quantum software](https://github.com/markf94/os_quantum_software) is an excellent github repository that contains information about quantum software projects.
-
+[List of Open Quantum Projects](https://qosf.org/project_list/)
 
 
 
