@@ -111,12 +111,12 @@ A good resource for containing a nice introduction to scientific computing as we
 #### ONLINE QM COURSES  
 * [Quantum Mechanics for Everyone](https://courses.edx.org/courses/course-v1:GeorgetownX+PHYX-008-01x+1T2017/course/)
 * [The Quantum World](https://courses.edx.org/courses/course-v1:HarvardX+CHEM160+1T2017/course/)
-* [Mastering Quantum Mechanics](https://courses.edx.org/courses/MITx/8.05x/1T2015/course/) *
+* [Mastering Quantum Mechanics](https://courses.edx.org/courses/MITx/8.05x/1T2015/course/) 
 
 #### FEYNMAN LECTURES
 A very good start for learning quantum mechanics would be the famous [Feynman Lectures on Physics Vol III](http://www.feynmanlectures.caltech.edu/III_toc.html)
 
-#### GO DEEPER INTO QM ***  
+#### GO DEEPER INTO QM 
 * A comprehensive guide to literature on the foundations of quantum mechanics is L. E. Ballentine, “Resource letter IQM2: Foundations of quantum mechanics since the Bell Inequalities”, [Am. J. Phys 55, 785 (1987)](https://aapt.scitation.org/doi/10.1119/1.14988)  
 
 **_QM Textbooks_:**
@@ -150,6 +150,8 @@ There are already a handful of programming frameworks that allow access to quant
 * IBM [QisKit](https://qiskit.org/)
 * Xanadu [Strawberry Fields](https://www.xanadu.ai/software/)
 * Google [Cirq](https://cirq.readthedocs.io/en/latest/)
+* Microsoft [Q#](https://docs.microsoft.com/en-us/quantum/?view=qsharp-preview)
+    - [Quantum Katas](https://github.com/Microsoft/QuantumKatas): a set of programming exercises for learning Q# and quantum computing
 * QuTech [Quantum Inspire](https://www.quantum-inspire.com/)
 * D-Wave [Leap](https://www.dwavesys.com/)
 
@@ -389,7 +391,6 @@ D.R. Leibrandt et. al., “Demonstration of a scalable, multiplexed ion trap for
 - Quantum Algorithm on Graphs
 - Shur: Beyond the Quantum Fourier Transform
 - Post-Quantum Cryptography
-- Public Key Quantum Cryptography
 - Entropies of Various Quantum Sources
 - Quantum Bit-Commitment
 - Optimal Two-Qubit Gates
