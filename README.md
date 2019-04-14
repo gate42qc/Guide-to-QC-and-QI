@@ -82,6 +82,8 @@ A good resource for containing a nice introduction to scientific computing as we
 * [Quantum Error Correction](http://pirsa.org/C17045) (D. Gottesman and B. Yoshida)  
 * [Quantum Cryptography](https://courses.edx.org/courses/course-v1:CaltechDelftX+QuCryptox+3T2018/course/)  (T. Vidick and S. Wehner)  
 * [Quantum Machine Learning](https://courses.edx.org/…/course-v1:University_of_T…/course/) (P. Wittek, Uni of Toronto)
+* [Quantum Computing Fundamentals Online Program, MITxPro](https://mitxpro.mit.edu/courses/course-v1:MITxPRO+QCx+2T2019/about)
+* [Quantum Computing Realities Online Program, MITxPro](https://mitxpro.mit.edu/courses/course-v1:MITxPRO+QCx0+1T2019/about)
 
 
 ### MANUALS
@@ -199,7 +201,7 @@ Find out the recent theoretical and experimental developments as well as near- m
 
 - National Academies of Sciences, Engineering, and Medicine. [Quantum Computing: Progress and Prospects (2018)](https://www.nap.edu/catalog/25196/quantum-computing-progress-and-prospects)
 - A. Acín et. al., "The quantum technologies roadmap: a European community view", [New J. Phys. 20 080201 (2018)](http://iopscience.iop.org/article/10.1088/1367-2630/aad1ea/meta)
-
+- Focus on Quantum Science and Technology Initiatives Around the World, [Quantum Science and Technology](https://iopscience.iop.org/journal/2058-9565/page/Focus_on_quantum_science_and_technology_initiatives_around_the_world)
 
 ### RESEARCH TOPICS WITH REFERENCES
 
