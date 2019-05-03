@@ -95,7 +95,8 @@ A good resource for containing a nice introduction to scientific computing as we
 * **O. Pittenger, _An Introduction to Quantum Computing Algorithms_, Progress in Computer Science and Applied Logic, v19, 2000**  
 * **Noson S. Yanofsky, Mirco A. Mannucci, _Quantum Computing for Computer Scientists_, Cambridge University Press, 32 Avenue of the Americas, New York, NY 10013-2473, USA 2008**  
 * **Colin P. Williams, _Explorations in Quantum Computing_, Springer-Verlag London Limited, 2011**  
-* **E. Rieffel and W. Polak, _Quantum Computing, A Gentle Introduction_, The MIT Press Cambridge, Massachusetts London, England, 2011**  
+* **E. Rieffel and W. Polak, _Quantum Computing, A Gentle Introduction_, The MIT Press Cambridge, Massachusetts London, England, 2011**
+* **Sarah C. Kaiser and Christopher E. Granade, [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp)**  
 
 [The Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/qt-quantcomp/) is a great place to search and read about general topics from more philosophical perspective
 
