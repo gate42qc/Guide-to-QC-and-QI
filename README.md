@@ -84,6 +84,7 @@ A good resource for containing a nice introduction to scientific computing as we
 * [Quantum Machine Learning](https://courses.edx.org/…/course-v1:University_of_T…/course/) (P. Wittek, Uni of Toronto)
 * [Quantum Computing Fundamentals Online Program, MITxPro](https://mitxpro.mit.edu/courses/course-v1:MITxPRO+QCx+2T2019/about)
 * [Quantum Computing Realities Online Program, MITxPro](https://mitxpro.mit.edu/courses/course-v1:MITxPRO+QCx0+1T2019/about)
+* [CS 269Q: Quantum Computer Programming](https://cs269q.stanford.edu/syllabus.html)(W. Zeng, Stanford, Spring 2019)
 
 
 ### MANUALS
