@@ -96,7 +96,8 @@ A good resource for containing a nice introduction to scientific computing as we
 * **O. Pittenger, _An Introduction to Quantum Computing Algorithms_, Progress in Computer Science and Applied Logic, v19, 2000**  
 * **Noson S. Yanofsky, Mirco A. Mannucci, _Quantum Computing for Computer Scientists_, Cambridge University Press, 32 Avenue of the Americas, New York, NY 10013-2473, USA 2008**  
 * **Colin P. Williams, _Explorations in Quantum Computing_, Springer-Verlag London Limited, 2011**  
-* **E. Rieffel and W. Polak, _Quantum Computing, A Gentle Introduction_, The MIT Press Cambridge, Massachusetts London, England, 2011**  
+* **E. Rieffel and W. Polak, _Quantum Computing, A Gentle Introduction_, The MIT Press Cambridge, Massachusetts London, England, 2011**
+* **Sarah C. Kaiser and Christopher E. Granade, [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp)**  
 
 [The Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/qt-quantcomp/) is a great place to search and read about general topics from more philosophical perspective
 
@@ -114,12 +115,12 @@ A good resource for containing a nice introduction to scientific computing as we
 #### ONLINE QM COURSES  
 * [Quantum Mechanics for Everyone](https://courses.edx.org/courses/course-v1:GeorgetownX+PHYX-008-01x+1T2017/course/)
 * [The Quantum World](https://courses.edx.org/courses/course-v1:HarvardX+CHEM160+1T2017/course/)
-* [Mastering Quantum Mechanics](https://courses.edx.org/courses/MITx/8.05x/1T2015/course/) *
+* [Mastering Quantum Mechanics](https://courses.edx.org/courses/MITx/8.05x/1T2015/course/) 
 
 #### FEYNMAN LECTURES
 A very good start for learning quantum mechanics would be the famous [Feynman Lectures on Physics Vol III](http://www.feynmanlectures.caltech.edu/III_toc.html)
 
-#### GO DEEPER INTO QM ***  
+#### GO DEEPER INTO QM 
 * A comprehensive guide to literature on the foundations of quantum mechanics is L. E. Ballentine, “Resource letter IQM2: Foundations of quantum mechanics since the Bell Inequalities”, [Am. J. Phys 55, 785 (1987)](https://aapt.scitation.org/doi/10.1119/1.14988)  
 
 **_QM Textbooks_:**
@@ -153,6 +154,8 @@ There are already a handful of programming frameworks that allow access to quant
 * IBM [QisKit](https://qiskit.org/)
 * Xanadu [Strawberry Fields](https://www.xanadu.ai/software/)
 * Google [Cirq](https://cirq.readthedocs.io/en/latest/)
+* Microsoft [Q#](https://docs.microsoft.com/en-us/quantum/?view=qsharp-preview)
+    - [Quantum Katas](https://github.com/Microsoft/QuantumKatas): a set of programming exercises for learning Q# and quantum computing
 * QuTech [Quantum Inspire](https://www.quantum-inspire.com/)
 * D-Wave [Leap](https://www.dwavesys.com/)
 
@@ -392,7 +395,6 @@ D.R. Leibrandt et. al., “Demonstration of a scalable, multiplexed ion trap for
 - Quantum Algorithm on Graphs
 - Shur: Beyond the Quantum Fourier Transform
 - Post-Quantum Cryptography
-- Public Key Quantum Cryptography
 - Entropies of Various Quantum Sources
 - Quantum Bit-Commitment
 - Optimal Two-Qubit Gates
