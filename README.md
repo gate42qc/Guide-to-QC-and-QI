@@ -192,6 +192,7 @@ The Quantum Pontiff [http://dabacon.org/pontiff/?feed=rss2](http://dabacon.org/p
 American Institute of Physics: Journal of Mathematical Physics: Table of Contents [https://aip.scitation.org/action/showFeed?type=etoc&feed=rss&jc=jmp](https://aip.scitation.org/action/showFeed?type=etoc&feed=rss&jc=jmp)  
 Stories by Dr James Wootton on Medium [https://medium.com/feed/@decodoku](https://medium.com/feed/@decodoku)  
 quanta rei [https://quantarei.wordpress.com/feed/](https://quantarei.wordpress.com/feed/)  
+Quantum, open journal for quantum science [https://quantum-journal.org/feed/](https://quantum-journal.org/feed/)
 
 
 ### QUANTUM COMPUTING STACK EXCHANGE 
