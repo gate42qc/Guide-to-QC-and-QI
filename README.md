@@ -211,7 +211,7 @@ Find out the recent theoretical and experimental developments as well as near- m
 
 
 ### REPRESENTATIVE PLATERS IN THE FIELD
-<img src="q.jpg" width="240" height="180" border="10"/>
+<img src="q.jpg" width="650" height="400" border="10"/>
 (update: QxBranch has been [acquired by Rigetti](https://medium.com/rigetti/welcome-qxbranch-a74a4970faf2))
 
 
