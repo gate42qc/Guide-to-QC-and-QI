@@ -209,6 +209,12 @@ Find out the recent theoretical and experimental developments as well as near- m
 - Focus on Quantum Science and Technology Initiatives Around the World, [Quantum Science and Technology](https://iopscience.iop.org/journal/2058-9565/page/Focus_on_quantum_science_and_technology_initiatives_around_the_world)
 - Boston Consulting Group's (BCG) report [Where Will Quantum Computers Create Value—and When?](https://www.bcg.com/publications/2019/quantum-computers-create-value-when.aspx)
 
+
+### REPRESENTATIVE PLATERS IN THE FIELD
+<img src="q.jpg" width="240" height="180" border="10"/>
+(update: QxBranch has been [acquired by Rigetti](https://medium.com/rigetti/welcome-qxbranch-a74a4970faf2))
+
+
 ### RESEARCH TOPICS WITH REFERENCES
 
 ##### _READING SCIENTIFIC ARTICLES_
