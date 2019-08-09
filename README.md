@@ -20,6 +20,7 @@ The guide assumes some knowledge of linear algebra and some programming language
 - [QUANTUM PROGRAMMING FRAMEWORKS](#QUANTUM-PROGRAMMING-FRAMEWORKS)
 - [STAY UP-TO-DATE](#STAY-UP-TO-DATE)
 - [ROADMAPS and REPORTS](#roadmaps)
+- [REPRESENTATIVE PLAYERS IN THE FIELD](#representatives)
 - [RESEARCH TOPICS WITH REFERENCES](#RESEARCH-TOPICS-WITH-REFERENCES)
 	1. [Quantum Computation](#Quantum-Computation) 
 	2. [Quantum Information](#Quantum-Information)
@@ -210,7 +211,7 @@ Find out the recent theoretical and experimental developments as well as near- m
 - Boston Consulting Group's (BCG) report [Where Will Quantum Computers Create Value—and When?](https://www.bcg.com/publications/2019/quantum-computers-create-value-when.aspx)
 
 
-### REPRESENTATIVE PLATERS IN THE FIELD
+### REPRESENTATIVE PLATERS IN THE FIELD <a name="representatives"></a>
 <center><img src="q.jpg" width="700" height="550" border="10"/></center>
 
 (update: QxBranch has been [acquired by Rigetti](https://medium.com/rigetti/welcome-qxbranch-a74a4970faf2))
@@ -250,7 +251,7 @@ We have collected a list of references classified by topics that may help the re
 1. [A review by Andrew Steane (1997)](https://arxiv.org/abs/quant-ph/9708022v2)
 1. [A review by Dorit Aharonov (2008)](https://arxiv.org/abs/quant-ph/9812037v1)
 1. D. P. DiVincenzo, “Quantum Computation”, Science **270**, 255 (1995)
-
+1. Rod van Meter's [List of papers/works on Quantum Architecture](https://twitter.com/rdviii/status/1159618881637322752)
 
 #### Quantum Information  
 1. By C. E. Shannon, “A Mathematical Theory of Communication”, The Bell System Technical Journal **27**, pp. 379-423, 623-656 (1957)
