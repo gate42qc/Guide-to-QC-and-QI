@@ -210,6 +210,8 @@ Find out the recent theoretical and experimental developments as well as near- m
 - Focus on Quantum Science and Technology Initiatives Around the World, [Quantum Science and Technology](https://iopscience.iop.org/journal/2058-9565/page/Focus_on_quantum_science_and_technology_initiatives_around_the_world)
 - Boston Consulting Group's (BCG) report [Where Will Quantum Computers Create Value—and When?](https://www.bcg.com/publications/2019/quantum-computers-create-value-when.aspx)
 - Forbes interview with deep tech investor [The Investor View: What Does 2019 Hold For European Quantum Computing Startups?](https://www.forbes.com/sites/gemmamilne/2019/01/14/the-investor-view-what-does-2019-hold-for-european-quantum-computing-startups/#34a031033ec8)
+- [Quantum devices - The Economist](https://www.economist.com/technology-quarterly/2017-03-11)
+- Quantum Zeitgeist on [How to invest in the Quantum Computing revolution, public companies you can invest in right now (Aug, 2019)](https://quantumzeitgeist.com/quantum-companies/how-to-invest-in-the-quantum-computing-revolution-public-companies-you-can-invest-in-right-now/?preview=true&_thumbnail_id=8099&fbclid=IwAR0fTwYdvrUNo707lNiOVI86shuXBdO1lOxq3DVGoHAKihvy0aSw7-ug5ZE)
 
 
 ### REPRESENTATIVE PLATERS IN THE FIELD <a name="representatives"></a>
@@ -252,7 +254,7 @@ We have collected a list of references classified by topics that may help the re
 1. [A review by Andrew Steane (1997)](https://arxiv.org/abs/quant-ph/9708022v2)
 1. [A review by Dorit Aharonov (2008)](https://arxiv.org/abs/quant-ph/9812037v1)
 1. D. P. DiVincenzo, “Quantum Computation”, Science **270**, 255 (1995)
-1. Rod van Meter's [List of papers/works on Quantum Architecture](https://twitter.com/rdviii/status/1159618881637322752)
+1. Rod van Meter's great [list of suggested papers/works on Quantum Architecture (2019 Aug)](https://threadreaderapp.com/thread/1158558531789791233.html)
 
 #### Quantum Information  
 1. By C. E. Shannon, “A Mathematical Theory of Communication”, The Bell System Technical Journal **27**, pp. 379-423, 623-656 (1957)
