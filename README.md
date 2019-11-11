@@ -213,7 +213,7 @@ Find out the recent theoretical and experimental developments as well as near- m
 - Forbes interview with deep tech investor [The Investor View: What Does 2019 Hold For European Quantum Computing Startups?](https://www.forbes.com/sites/gemmamilne/2019/01/14/the-investor-view-what-does-2019-hold-for-european-quantum-computing-startups/#34a031033ec8)
 - [Quantum devices - The Economist](https://www.economist.com/technology-quarterly/2017-03-11)
 - Quantum Zeitgeist on [How to invest in the Quantum Computing revolution, public companies you can invest in right now (Aug, 2019)](https://quantumzeitgeist.com/quantum-companies/how-to-invest-in-the-quantum-computing-revolution-public-companies-you-can-invest-in-right-now/?preview=true&_thumbnail_id=8099&fbclid=IwAR0fTwYdvrUNo707lNiOVI86shuXBdO1lOxq3DVGoHAKihvy0aSw7-ug5ZE)
-
+- [Gartner - The CIO’s Guide to Quantum Computing (2019)](https://www.gartner.com/smarterwithgartner/the-cios-guide-to-quantum-computing)
 
 ### REPRESENTATIVE PLATERS IN THE FIELD <a name="representatives"></a>
 <center><img src="q.jpg" width="700" height="550" border="10"/></center>
