@@ -177,6 +177,8 @@ There are already a handful of programming frameworks that allow access to quant
 * [Quantum Frontiers](https://quantumfrontiers.com/ ) by CalTech 
 
 ##### RSS FEEDS
+Get alerts from new publications, news and blogs directly in your slack workspace or register in, e.g., https://theoldreader.com/ by adding the below links
+
 Quantum Information - nature.com [http://feeds.nature.com/npjqi/rss/current](http://feeds.nature.com/npjqi/rss/current)  
 PRL: General Physics: Statistical and Quantum Mechanics, Quantum Information, etc. [http://feeds.aps.org/rss/tocsec/PRL-GeneralPhysicsStatisticalandQuantumMechanicsQuantumInformationetc.xml](http://feeds.aps.org/rss/tocsec/PRL-GeneralPhysicsStatisticalandQuantumMechanicsQuantumInformationetc.xml)  
 PRA: Quantum information [http://feeds.aps.org/rss/tocsec/PRA-Quantuminformation.xml](http://feeds.aps.org/rss/tocsec/PRA-Quantuminformation.xml)  
