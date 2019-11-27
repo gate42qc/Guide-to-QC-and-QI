@@ -206,7 +206,7 @@ Quantum Computing Stack Exchange is a question and answer site for engineers, sc
 
 
 
-### ROADMAPS and REPORTS <a name="roadmaps"></a>
+### ROADMAPS <a name="roadmaps"></a>
 Find out the recent theoretical and experimental developments as well as near- mid- and far-term goals in quantum computing and prediction analyses of its applications in businesses in the following comprehensive roadmaps and reports:  
 
 - National Academies of Sciences, Engineering, and Medicine. [Quantum Computing: Progress and Prospects (2018)](https://www.nap.edu/catalog/25196/quantum-computing-progress-and-prospects)
@@ -219,7 +219,7 @@ Find out the recent theoretical and experimental developments as well as near- m
 
 
 ### POPULAR PRESS <a name="press"></a>
-
+- J. Hilton, "Quantum's Road To Commercialization [Forbes Technology Council](https://www.forbes.com/sites/forbestechcouncil/2019/11/19/quantums-road-to-commercialization/#3d907f40158a)
 - Boston Consulting Group's (BCG) report [Where Will Quantum Computers Create Value—and When?](https://www.bcg.com/publications/2019/quantum-computers-create-value-when.aspx)
 - Forbes interview with deep tech investor [The Investor View: What Does 2019 Hold For European Quantum Computing Startups?](https://www.forbes.com/sites/gemmamilne/2019/01/14/the-investor-view-what-does-2019-hold-for-european-quantum-computing-startups/#34a031033ec8)
 - [Quantum devices - The Economist](https://www.economist.com/technology-quarterly/2017-03-11)
