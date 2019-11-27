@@ -20,6 +20,7 @@ The guide assumes some knowledge of linear algebra and some programming language
 - [QUANTUM PROGRAMMING FRAMEWORKS](#QUANTUM-PROGRAMMING-FRAMEWORKS)
 - [STAY UP-TO-DATE](#STAY-UP-TO-DATE)
 - [ROADMAPS and REPORTS](#roadmaps)
+- [POPULAR PRESS](#press)
 - [REPRESENTATIVE PLAYERS IN THE FIELD](#representatives)
 - [RESEARCH TOPICS WITH REFERENCES](#RESEARCH-TOPICS-WITH-REFERENCES)
 	1. [Quantum Computation](#Quantum-Computation) 
@@ -211,11 +212,26 @@ Find out the recent theoretical and experimental developments as well as near- m
 - National Academies of Sciences, Engineering, and Medicine. [Quantum Computing: Progress and Prospects (2018)](https://www.nap.edu/catalog/25196/quantum-computing-progress-and-prospects)
 - A. Acín et. al., "The quantum technologies roadmap: a European community view", [New J. Phys. 20 080201 (2018)](http://iopscience.iop.org/article/10.1088/1367-2630/aad1ea/meta)
 - Focus on Quantum Science and Technology Initiatives Around the World, [Quantum Science and Technology](https://iopscience.iop.org/journal/2058-9565/page/Focus_on_quantum_science_and_technology_initiatives_around_the_world)
+- [A quantum computation roadmap by LANL](https://qist.lanl.gov/qcomp_map.shtml)
+- [A Quantum Cryptography Roadmap by LANL (2009)](https://qist.lanl.gov/qcrypt_map.shtml) 
+
+
+
+
+### POPULAR PRESS <a name="press"></a>
+
 - Boston Consulting Group's (BCG) report [Where Will Quantum Computers Create Value—and When?](https://www.bcg.com/publications/2019/quantum-computers-create-value-when.aspx)
 - Forbes interview with deep tech investor [The Investor View: What Does 2019 Hold For European Quantum Computing Startups?](https://www.forbes.com/sites/gemmamilne/2019/01/14/the-investor-view-what-does-2019-hold-for-european-quantum-computing-startups/#34a031033ec8)
 - [Quantum devices - The Economist](https://www.economist.com/technology-quarterly/2017-03-11)
 - Quantum Zeitgeist on [How to invest in the Quantum Computing revolution, public companies you can invest in right now (Aug, 2019)](https://quantumzeitgeist.com/quantum-companies/how-to-invest-in-the-quantum-computing-revolution-public-companies-you-can-invest-in-right-now/?preview=true&_thumbnail_id=8099&fbclid=IwAR0fTwYdvrUNo707lNiOVI86shuXBdO1lOxq3DVGoHAKihvy0aSw7-ug5ZE)
 - [Gartner - The CIO’s Guide to Quantum Computing (2019)](https://www.gartner.com/smarterwithgartner/the-cios-guide-to-quantum-computing)
+- J. Dongarra, 2018, "The U.S. Once Again Has the World’s Fastest Supercomputer. Keep Up the Hustle," [The Washington Post, June 25](https://www.washingtonpost.com/opinions/united-states-wins-top-honors-in-supercomputer-race/2018/06/25/82798c2c-78b1-11e8-aeee-4d04c8ac6158_story.html)
+- J. Nicas, 2017, "How Google’s Quantum Computer Could Change the World," [Wall Street Journal, October 16](https://www.wsj.com/articles/how-googles-quantum-computer-could-change-the-world-1508158847;)
+- J. Asmundsson, 2017, "Quantum Computing Might Be Here Sooner than You Think," [Bloomberg, June 14](https://www.bloomberg.com/news/features/2017-06-14/the-machine-of-tomorrow-today-quantum-computing-on-the-verge;) 
+- D. Castevecchi, 2017, "Quantum computers ready to leap out of the lab in 2017", [Nature 541(7635):9-10](https://www.nature.com/articles/541009a)
+
+
+
 
 ### REPRESENTATIVE PLATERS IN THE FIELD <a name="representatives"></a>
 <center><img src="q.jpg" width="700" height="550" border="10"/></center>
