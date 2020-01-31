@@ -6,3 +6,5 @@ relative_links:
 include:
   - LICENSE.md
 
+
+theme: jekyll-theme-cayman
