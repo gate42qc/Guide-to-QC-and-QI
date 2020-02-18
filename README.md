@@ -219,6 +219,7 @@ Find out the recent theoretical and experimental developments as well as near- m
 
 
 ### POPULAR PRESS <a name="press"></a>
+- Deloite insights, [The realist’s guide to quantum technology and national security, Feb 6, 2020](https://www2.deloitte.com/uk/en/insights/industry/public-sector/the-impact-of-quantum-technology-on-national-security.html?fbclid=IwAR3JBRd6GJ0-3wqb_8gc1GBPG-nq6Uy79ADQbwgXf6Ag8Ba7XhvEjg0QQW4)
 - J. Hilton, "Quantum's Road To Commercialization [Forbes Technology Council, Nov 19, 2019](https://www.forbes.com/sites/forbestechcouncil/2019/11/19/quantums-road-to-commercialization/#3d907f40158a)
 - Boston Consulting Group's (BCG) report [Where Will Quantum Computers Create Value—and When?](https://www.bcg.com/publications/2019/quantum-computers-create-value-when.aspx)
 - Forbes interview with deep tech investor [The Investor View: What Does 2019 Hold For European Quantum Computing Startups?](https://www.forbes.com/sites/gemmamilne/2019/01/14/the-investor-view-what-does-2019-hold-for-european-quantum-computing-startups/#34a031033ec8)
