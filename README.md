@@ -138,6 +138,8 @@ A very good start for learning quantum mechanics would be the famous [Feynman Le
 
 ### VIDEO LECTURES FROM INTERNATIONAL SUMMER SCHOOLS AND CONFERENCES
 
+* [Rigetti Advantage 2020](https://m.youtube.com/watch?v=C7sP15BiE98&list=PLtwT4pUtHHkpVrX_kO_lyr4uyDfqpV8Db&index=1&fbclid=IwAR3uYRxzfN979KsFal3uMM9MEIMb55AnU7zHCPjRo5LQ22R2iitCQjkReoA)
+* [QIP 2020, January 6-10, Shenzhen, China](http://www.szpclab.com/qip2020#/programDetails)
 * [EPiQC 2018 - Enabling Practical-Scale Quantum Computing - An NSF Expedition in Computing](https://www.youtube.com/watch?v=ZQ_NE-E91aU&index=1&list=PLfOgkuiMs5qD6BkS7Bk2gLGdHSxjMz5MY)
 * [Boulder School 2018: lecture notes and videos](https://boulderschool.yale.edu/2018/boulder-school-2018-lecture-notes)
 * [Quantum Information for Developers 2018](https://www.video.ethz.ch/conferences/2018/quid.html?fbclid=IwAR2W2vToNoNdu-MMjrY1qhMKg5gQ2jTro0xTPuuaCFYTUOoCXWW5XOlHXyc)
