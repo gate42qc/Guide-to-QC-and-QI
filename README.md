@@ -171,6 +171,10 @@ There are already a handful of programming frameworks that allow access to quant
 
 
 ### STAY UP-TO-DATE
+##### MAILING LISTS
+* Get updates from ORNL Quantum Computing Institute: News and press releases, Call for papers, proposals, Conferences, workshops and standards, and Job postings by [subscribing via this link](https://elist.ornl.gov/mailman/listinfo/qci-external)
+* [Sign up here](https://quantumcomputingreport.com/about/qcr-alerts-signup-form/) for Quantum Computing Report Alerts to get a notification when there are updates on the website https://quantumcomputingreport.com/
+
 ##### BLOGS
 * [Scott Aaronson](https://www.scottaaronson.com/blog/): theoretical computer scientist, Computer Science at the University of Texas at Austin
 * [Quantum Non-Equilibrium Systems](https://quantingham.wordpress.com/ ) at the University of Nottingham (United Kingdom)
