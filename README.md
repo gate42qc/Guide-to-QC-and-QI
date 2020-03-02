@@ -208,7 +208,7 @@ Quantum Computing Stack Exchange is a question and answer site for engineers, sc
 
 ### ROADMAPS <a name="roadmaps"></a>
 Find out the recent theoretical and experimental developments as well as near- mid- and far-term goals in quantum computing and prediction analyses of its applications in businesses in the following comprehensive roadmaps and reports:  
-
+- [Quantum technologies in Russia (2019)](https://iopscience.iop.org/article/10.1088/2058-9565/ab4472/pdf)
 - National Academies of Sciences, Engineering, and Medicine. [Quantum Computing: Progress and Prospects (2018)](https://www.nap.edu/catalog/25196/quantum-computing-progress-and-prospects)
 - A. Acín et. al., "The quantum technologies roadmap: a European community view", [New J. Phys. 20 080201 (2018)](http://iopscience.iop.org/article/10.1088/1367-2630/aad1ea/meta)
 - Focus on Quantum Science and Technology Initiatives Around the World, [Quantum Science and Technology](https://iopscience.iop.org/journal/2058-9565/page/Focus_on_quantum_science_and_technology_initiatives_around_the_world)
