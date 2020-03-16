@@ -102,6 +102,7 @@ A good resource for containing a nice introduction to scientific computing as we
 * **Sarah C. Kaiser and Christopher E. Granade, [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp)**  
 * **Johan Vos, [Quantum Computing for Java Developers](https://www.manning.com/books/quantum-computing-for-java-developers)**  
 * **Jack D. Hidary, [_Quantum Computing: An Applied Approach_](https://github.com/JackHidary/quantumcomputingbook)**
+* **[13 Best New Quantum Computing Books To Read In 2020](https://bookauthority.org/books/new-quantum-computing-books?t=15ojsx&s=award&book=2970071134&fbclid=IwAR3IiMhtPt8d-4UvQnW_EZVfg2VmtgSONK5ZobfMMWF8P6J3GOm96L_4awM)**
 
 [The Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/qt-quantcomp/) is a great place to search and read about general topics from more philosophical perspective
 
@@ -112,7 +113,7 @@ A good resource for containing a nice introduction to scientific computing as we
 * Scott Aaronson, [Lecture Notes](https://www.scottaaronson.com/blog/?p=3943), UT Austin  
 * Birgitta Whaley, [Lecture Notes](https://inst.eecs.berkeley.edu/~cs191/fa14/), Berkeley  
 * Isaak Chuang, [Lecture Notes](http://feynman.mit.edu/ike/homepage/index.html), MIT  
-
+* Michael Locef, [A Course in Quantum Computing](http://lapastillaroja.net/wp-content/uploads/2016/09/Intro_to_QC_Vol_1_Loceff.pdf), Foothill College
 
 
 ### QUANTUM MECHANICS  
