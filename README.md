@@ -215,6 +215,7 @@ Quantum Computing Stack Exchange is a question and answer site for engineers, sc
 
 ### ROADMAPS <a name="roadmaps"></a>
 Find out the recent theoretical and experimental developments as well as near- mid- and far-term goals in quantum computing and prediction analyses of its applications in businesses in the following comprehensive roadmaps and reports:  
+- [OSA Industry Development Associates Quantum Photonics Roadmap (2020)](https://www.osa.org/en-us/industry/industry_intelligence/oidaroadmap/?fbclid=IwAR1Vh2SxQVOtObY5XK02UUpBe9zryeufVoJAg3_AMUVM8VZJ0RfT72yDnXE)
 - [Growing Australia’s Quantum Technology Industry (2020)](https://www.csiro.au/en/Showcase/quantum)
 - [Quantum technologies in Russia (2019)](https://iopscience.iop.org/article/10.1088/2058-9565/ab4472/pdf)
 - [QuTech Annual Report for 2019](https://qutech.h5mag.com/annual_report_2019/cover)
